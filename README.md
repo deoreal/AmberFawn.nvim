@@ -2,7 +2,7 @@
 
 A warm, earthy colorscheme for Neovim optimized for treesitter syntax highlighting.
 
-![AmberFawn Preview](https://via.placeholder.com/800x400/1a1611/e8dcc6?text=AmberFawn+Colorscheme)
+![AmberFawn Preview]((https://github.com/deoreal/AmberFawn.nvim/blob/1aa4f623d6f6ed7388b104fe1cbf3e0034a116ab/AmberFawn-screenshot.jpg))
 
 ## ✨ Features
 
